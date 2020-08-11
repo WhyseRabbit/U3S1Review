@@ -1,6 +1,6 @@
 # Data Science U3S1 Review
 
-In this review you are taking the roll of an inventory manager for a computer shop. All code should be done in .py files to best represent how you will turn in your work on the Sprint Challenge. This review is designed based on the Challenge, but does not give as much detail in the instructions.  This folder includes comps.py with the classes described already completed and comps_test.py with the unit tests to check your work. If you just copy the code out of those files it will defeat the purpose of the review.
+In this review you are taking the role of an inventory manager for a computer shop. All code should be done in .py files to best represent how you will turn in your work on the Sprint Challenge. This review is designed based on the Challenge, but does not give as much detail in the instructions.  This folder includes comps.py with the classes described already completed and comps_test.py with the unit tests to check your work. If you just copy the code out of those files it will defeat the purpose of the review.
 
 
 ## Part 1: Set Up the Data Structure
